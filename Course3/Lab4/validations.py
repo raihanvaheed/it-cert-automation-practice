@@ -4,7 +4,7 @@ import re
 
 #Forbidden characters for starting a username
 forbidden = ['_', '&', '.', ';', '-', '`', '||', '|']
-
+     
 
 
 def validate_user(username, minlen):
